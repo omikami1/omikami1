@@ -37,6 +37,7 @@ I am currently preparing for the **MEXT Scholarship** to pursue a Master's degre
 
 ## Connect With Me
 - [**Telegram**](https://t.me/shinigami_110)
+- <a href="mailto:omikami666@gmail.com">omikami666@gmail.com</a>
 - [**Reddit**](https://www.reddit.com/user/kami-110)
 - [**AUR (Arch User Repository)**](https://aur.archlinux.org/account/omikami)
 - [**My Technical Portfolio Website**](https://eei-journey.site/)
