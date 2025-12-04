@@ -10,7 +10,7 @@
 
 ## Notice of Migration & Profile Focus
 
-This profile supersedes my previous account, [`fakeshinigami110`](https://github.com/fakeshinigami110). I have transitioned my focus from Telegram bot & backend web development to **low-level systems engineering**, **Edge AI optimization**, and **embedded systems**.
+This profile supersedes my previous account, [`fakeshinigami110`](https://github.com/fakeshinigami110).<br>Also here is my GitLab account that I use for some projects [`omikami`](https://gitlab.com/omikami).<br> I have transitioned my focus from Telegram bot & backend web development to **low-level systems engineering**, **Edge AI optimization**, and **IOT**.
 
 While I no longer actively maintain my older projects, they remain accessible in the archive below for reference.
 
